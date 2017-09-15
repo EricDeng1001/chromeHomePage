@@ -1,0 +1,1067 @@
+{
+   "360_desc": {
+      "message": "The rivalry of Baidu Search."
+   },
+   "360search": {
+      "message": "360 Search"
+   },
+   "QQGroups": {
+      "message": "QQ Community"
+   },
+   "about": {
+      "message": "About us"
+   },
+   "add": {
+      "message": "Add"
+   },
+   "add_again": {
+      "message": "Add again?"
+   },
+   "add_city": {
+      "message": "Add City"
+   },
+   "add_search": {
+      "message": "Add a search engine"
+   },
+   "add_success": {
+      "message": "Added"
+   },
+   "added": {
+      "message": "Added"
+   },
+   "airplane": {
+      "message": "Flights"
+   },
+   "alipay": {
+      "message": "Alipay"
+   },
+   "all": {
+      "message": "All"
+   },
+   "all_source_wallpaper": {
+      "message": "All the wallpapers"
+   },
+   "allwallpaper": {
+      "message": "All the wallpaper"
+   },
+   "app": {
+      "message": "Apps"
+   },
+   "app_disabled_enable_first": {
+      "message": "This app is disabled, enable it now?"
+   },
+   "apple": {
+      "message": "Apple"
+   },
+   "apply_wallpaper": {
+      "message": "Apply the wallpaper"
+   },
+   "at_will": {
+      "message": "At random"
+   },
+   "auto_back_up_when_open": {
+      "message": "Enable it and it will automatically back up date when it changes"
+   },
+   "auto_backup_data": {
+      "message": "Automatic Data Backup"
+   },
+   "back": {
+      "message": "Back"
+   },
+   "back_up_make_sure": {
+      "message": "When removing through a backup file, make sure that:"
+   },
+   "backup_data": {
+      "message": "Data Backup"
+   },
+   "backup_done": {
+      "message": "Backup is done"
+   },
+   "backup_from_old": {
+      "message": "Data has been exported from the older version"
+   },
+   "backup_now": {
+      "message": "Back up now"
+   },
+   "backuping_your_data": {
+      "message": "Backing up your data..."
+   },
+   "baidu": {
+      "message": "Baidu"
+   },
+   "baidu_desc": {
+      "message": "A mostly-used search engine in China."
+   },
+   "beijing": {
+      "message": "Beijing"
+   },
+   "bing": {
+      "message": "Bing"
+   },
+   "bing_desc": {
+      "message": "Bing is a network search engine launched by Microsoft."
+   },
+   "bing_image_url": {
+      "message": "https://www.bing.com/images/search?isource=infinity&iname=bing&q="
+   },
+   "bing_maps_url": {
+      "message": "https://www.bing.com/ditu/?isource=infinity&iname=bing&q="
+   },
+   "bing_news_url": {
+      "message": "https://global.bing.com/news/search?isource=infinity&iname=bing&q="
+   },
+   "bing_videos_url": {
+      "message": "https://www.bing.com/videos/search?isource=infinity&iname=bing&q="
+   },
+   "bing_web_url": {
+      "message": "https://www.bing.com/search?isource=infinity&iname=bing&itype=web&q="
+   },
+   "blur_wallpaper": {
+      "message": "Blur the wallpaper"
+   },
+   "bookmarks": {
+      "message": "Bookmarks"
+   },
+   "books": {
+      "message": "Books"
+   },
+   "by_backup": {
+      "message": "Option 2: Migrate through a backup file"
+   },
+   "can_you_give_us_an_five_star": {
+      "message": "Could you give us a five-star praise?"
+   },
+   "cancel": {
+      "message": "Cancel"
+   },
+   "cancel_login": {
+      "message": "Cancel"
+   },
+   "cannot_delete_current_search": {
+      "message": "The currently used search engine cannot be deleted"
+   },
+   "change_font_size": {
+      "message": "Adjust the text size"
+   },
+   "change_to_next_wallpaper": {
+      "message": "Switch to the next wallpaper"
+   },
+   "change_wallpaper_every_day": {
+      "message": "Replace the wallpaper everyday"
+   },
+   "change_wallpaper_source": {
+      "message": "Change the wallpapers source"
+   },
+   "change_walpaper_everyday_and_disabled_custom": {
+      "message": "After the opening, the system will automatically change the wallpaper every day, and disable the custom wallpaper function at the same time"
+   },
+   "chrome_apps": {
+      "message": "Chrome Apps"
+   },
+   "chromes_store": {
+      "message": "Chrome Web Store"
+   },
+   "clear": {
+      "message": "Clear"
+   },
+   "clear_done": {
+      "message": "Clearing is done"
+   },
+   "clear_history": {
+      "message": "Clear history"
+   },
+   "click_to_reload": {
+      "message": "Click to reload"
+   },
+   "cloud_cover_local": {
+      "message": "Clouds covering local"
+   },
+   "color": {
+      "message": "Color"
+   },
+   "color_icon": {
+      "message": "Solid color icon"
+   },
+   "contact": {
+      "message": "Contact us"
+   },
+   "cover_opacity": {
+      "message": "Mask Concentration"
+   },
+   "custom_add": {
+      "message": "Custom adding"
+   },
+   "data_recovery_failed": {
+      "message": "Data Recovery failed"
+   },
+   "data_recovery_success": {
+      "message": "Data Recovery done"
+   },
+   "data_transfer_failed": {
+      "message": "Data migration failed, please try again"
+   },
+   "data_transfer_success": {
+      "message": "Data migration is done, click OK to close this page"
+   },
+   "de": {
+      "message": "German"
+   },
+   "delete": {
+      "message": "Delete"
+   },
+   "delete_account": {
+      "message": "Destroy my account"
+   },
+   "delete_all": {
+      "message": "Delete all"
+   },
+   "disable": {
+      "message": "Disable"
+   },
+   "disabled": {
+      "message": "Disabled"
+   },
+   "donate": {
+      "message": "Donate"
+   },
+   "done": {
+      "message": "Done"
+   },
+   "downloading_and_set_wp": {
+      "message": "Downloading and setting the wallpaper..."
+   },
+   "duckduckgo": {
+      "message": "DuckDuckGo"
+   },
+   "duckduckgo_desc": {
+      "message": "DuckDuckGo emphasizes the introduction of major Web 2.0 sites on the basis of traditional search engines. DuckDuckGo advocates the protection of user's privacy, and promised not to monitor or record user's searching content."
+   },
+   "edit": {
+      "message": "Edit"
+   },
+   "edit_icon": {
+      "message": "Edit the icon"
+   },
+   "education": {
+      "message": "Education and Career"
+   },
+   "empty": {
+      "message": "Empty"
+   },
+   "empty_for_remove_or_null": {
+      "message": "The link url can not be empty"
+   },
+   "en_US": {
+      "message": "English - US"
+   },
+   "enable": {
+      "message": "Enable"
+   },
+   "enabled": {
+      "message": "Enabled"
+   },
+   "enter_and_search": {
+      "message": "Enter and search ..."
+   },
+   "es": {
+      "message": "Spanish"
+   },
+   "extdesc": {
+      "message": "Probably, the best New Tab for Chrome"
+   },
+   "extension": {
+      "message": "Extension Management"
+   },
+   "extname": {
+      "message": "Infinity New Tab (Pro)"
+   },
+   "facebookGroups": {
+      "message": "Facebook Community"
+   },
+   "feedback": {
+      "message": "Feedback"
+   },
+   "fill_bg_color": {
+      "message": "Fill the background color"
+   },
+   "fill_url_name_first": {
+      "message": "Please fill in the website URL and site name first"
+   },
+   "filter": {
+      "message": "filter"
+   },
+   "finance": {
+      "message": "Finance"
+   },
+   "follow_us": {
+      "message": "Follow Us"
+   },
+   "font_color": {
+      "message": "Text color"
+   },
+   "font_family": {
+      "message": "Font"
+   },
+   "font_shadow": {
+      "message": "Font shadows"
+   },
+   "font_size": {
+      "message": "Font size"
+   },
+   "forever_pro": {
+      "message": "∞ days left"
+   },
+   "found": {
+      "message": "Discovery"
+   },
+   "found_about_re_nums_seconds": {
+      "message": "Find about {n%} results (with {s%} seconds)"
+   },
+   "found_installed": {
+      "message": "Detected already installed"
+   },
+   "found_uninstalled": {
+      "message": "Detected not installed"
+   },
+   "fr": {
+      "message": "French"
+   },
+   "from": {
+      "message": "From"
+   },
+   "from_user": {
+      "message": "From users:"
+   },
+   "games": {
+      "message": "Games and entertainment"
+   },
+   "get_random_wallpaper": {
+      "message": "Random wallpapers"
+   },
+   "give_up": {
+      "message": "Give up"
+   },
+   "gmail_notification": {
+      "message": "Gmail notifications"
+   },
+   "gmail_notification_ring": {
+      "message": "Gmail notifications ringtones"
+   },
+   "go_chrome_store": {
+      "message": "Go to the Chrome Store to download some apps"
+   },
+   "go_on_add": {
+      "message": "Continue to add"
+   },
+   "google": {
+      "message": "Google"
+   },
+   "google_desc": {
+      "message": "Google Search is an Internet search engine launched by Google, which is the largest and most influential search engine on the Internet"
+   },
+   "hide_search_box": {
+      "message": "Hide the search bar"
+   },
+   "hide_search_btn": {
+      "message": "Hide the search button"
+   },
+   "hide_search_type": {
+      "message": "Hide the search category"
+   },
+   "history": {
+      "message": "History"
+   },
+   "humidity": {
+      "message": "Humidity"
+   },
+   "i_donate": {
+      "message": "Donate"
+   },
+   "icon": {
+      "message": "Icon"
+   },
+   "icon_opacity": {
+      "message": "Icon opacity"
+   },
+   "icon_radius": {
+      "message": "Icon fillet"
+   },
+   "icon_shadow": {
+      "message": "Icon shadows"
+   },
+   "image_icon": {
+      "message": "Use an image"
+   },
+   "image_upload_failed_please_check_network": {
+      "message": "Failed to upload images, please check the network"
+   },
+   "images": {
+      "message": "Images"
+   },
+   "infinity_bookmarks": {
+      "message": "Infinity Bookmarks, flatten the level of your bookmarks folder, make it easier for you to find bookmarks"
+   },
+   "infinity_chrome_apps": {
+      "message": "The Infinity App Launcher makes it easier for you to launch Chrome apps"
+   },
+   "infinity_extension": {
+      "message": "Infinity Extensions Management, manage your Chrome Extensions and Apps in a simple and explicit way"
+   },
+   "infinity_free": {
+      "message": "Infinity Free version"
+   },
+   "infinity_history": {
+      "message": "Infinity History, check and manage your browser's history in a fast way"
+   },
+   "infinity_notes": {
+      "message": "Infinity Notes, record your life inspiration in a fast way"
+   },
+   "infinity_own_wallpaper": {
+      "message": "Infinity Featured Wallpapers"
+   },
+   "infinity_pro": {
+      "message": "Infinity Pro"
+   },
+   "infinity_pro_trial": {
+      "message": "Infinity Pro(Beta)"
+   },
+   "infinity_search_desc": {
+      "message": "Infinity Search is  a search engine of Infinity New Tab."
+   },
+   "infinity_settings": {
+      "message": "Infinity Settings, personalize the settings of your Infinity New Tab"
+   },
+   "infinity_todos": {
+      "message": "Infinity Todos, arrange your missions in good orders and improve your productivity"
+   },
+   "infinity_wallpaper": {
+      "message": "Infinity Wallpaper Library, provide you with rich, wonderful wallpaper"
+   },
+   "infinity_weather": {
+      "message": "Infinity Weather, provide you with weather forecasts for the global city"
+   },
+   "initialization": {
+      "message": "Initializing..."
+   },
+   "insert": {
+      "message": "Insert"
+   },
+   "is_sure_delete": {
+      "message": "Do you want to delete it?"
+   },
+   "ja": {
+      "message": "Japanese"
+   },
+   "last_backup_at": {
+      "message": "Last backup on: "
+   },
+   "last_page": {
+      "message": "Previous page"
+   },
+   "last_update_at": {
+      "message": "Last update on:"
+   },
+   "layout": {
+      "message": "Layout"
+   },
+   "life": {
+      "message": "Lifestyle"
+   },
+   "link_text_can_not_be_null": {
+      "message": "The link text can not be empty"
+   },
+   "local_cover_cloud": {
+      "message": "Local covering clouds"
+   },
+   "local_wallpaper": {
+      "message": "Local Wallpapers"
+   },
+   "login": {
+      "message": "Log in"
+   },
+   "login_and_backup": {
+      "message": "Use the backup after logging in"
+   },
+   "login_failed_please_try_later": {
+      "message": "Login error, please try again later"
+   },
+   "login_infinity": {
+      "message": "Log in to Infinity"
+   },
+   "login_success": {
+      "message": "Logged in"
+   },
+   "login_to_free_try_pro": {
+      "message": "Log in and use Pro version for free"
+   },
+   "login_to_insert_image": {
+      "message": "Sign in and insert an image"
+   },
+   "login_try_to_pro": {
+      "message": "Free trial Infinity Pro by\u003Ca class=\"go-update-pro\"> Login\u003C/a>"
+   },
+   "logining": {
+      "message": "Logging in"
+   },
+   "logout": {
+      "message": "Logout"
+   },
+   "london": {
+      "message": "London"
+   },
+   "main_zoom": {
+      "message": "Main screen view zoom"
+   },
+   "make_sure_onekey": {
+      "message": "When using one key migration, make sure that:"
+   },
+   "maps": {
+      "message": "Maps"
+   },
+   "message_box": {
+      "message": "Message Box"
+   },
+   "mini": {
+      "message": "Minimalistic mode"
+   },
+   "more": {
+      "message": "More"
+   },
+   "music": {
+      "message": "Music and videos"
+   },
+   "must_five_star": {
+      "message": "Five-star praise"
+   },
+   "my": {
+      "message": "Mine"
+   },
+   "my_backup": {
+      "message": "My backup"
+   },
+   "need_enable": {
+      "message": "This app is disabled and you need to enable this app first"
+   },
+   "need_transfer": {
+      "message": "If you have used an older version of the Infinity New Tab, click the \"Migrate Now\" button to move your data to the new one"
+   },
+   "network_error_please_try_later": {
+      "message": "Network error, please try again later"
+   },
+   "never_backup": {
+      "message": "No backup, it will back up data automatically when changes happen"
+   },
+   "new_notes": {
+      "message": "New note"
+   },
+   "news": {
+      "message": "News"
+   },
+   "newyork": {
+      "message": "New York"
+   },
+   "next_page": {
+      "message": "Next page"
+   },
+   "no_any_history": {
+      "message": "No historical record"
+   },
+   "no_any_search_keywords": {
+      "message": "There are no historical records for this keyword"
+   },
+   "no_bookmarks": {
+      "message": "There are no bookmarks under this folder. \u003Cbr> \u003Cbr> (we make all folders are flattened, you can go to find its subfolders)"
+   },
+   "no_chrome_app": {
+      "message": "You have not installed any Chrome apps yet"
+   },
+   "no_condition_extension": {
+      "message": "No eligible Extensions or Apps"
+   },
+   "no_description_yet": {
+      "message": "No description yet"
+   },
+   "no_more": {
+      "message": "No more"
+   },
+   "no_more_history": {
+      "message": "No more history"
+   },
+   "no_more_page": {
+      "message": "No more pages"
+   },
+   "no_more_space": {
+      "message": "The page has no extra space"
+   },
+   "no_more_wallpaper": {
+      "message": "No more wallpapers"
+   },
+   "no_seacrh_result": {
+      "message": "Nothing to be found"
+   },
+   "no_title": {
+      "message": "Untitled notes"
+   },
+   "no_todos": {
+      "message": "No things need to be done, enter the to-do items, press the Enter key to add"
+   },
+   "not_any_notification_now": {
+      "message": "No notification yet"
+   },
+   "not_found_city": {
+      "message": "No query results of this city"
+   },
+   "not_good": {
+      "message": "Not good enough, I want to give you a feedback"
+   },
+   "not_support": {
+      "message": "Your current version does not support this application, please upgrade to the latest version of \"Infinity New Tab\""
+   },
+   "notes": {
+      "message": "Notes"
+   },
+   "notification": {
+      "message": "Notification"
+   },
+   "ok": {
+      "message": "OK"
+   },
+   "old_exist": {
+      "message": "The older version is also installed on this browser"
+   },
+   "one_about": {
+      "message": "About"
+   },
+   "onekey_btn": {
+      "message": "One key migration"
+   },
+   "onekey_transfer": {
+      "message": "Option 1: One key migration"
+   },
+   "only_infinity_module": {
+      "message": "Note: above methods only apply to the Infinity internal module"
+   },
+   "open": {
+      "message": "Open"
+   },
+   "open_bookmark_link_in_new_tab": {
+      "message": "Open the bookmarks link in the new tab"
+   },
+   "open_history_in_new_tab": {
+      "message": "Open the history in the new tab"
+   },
+   "open_library": {
+      "message": "Open the Wallpaper Library"
+   },
+   "open_search_result_in_new_tab": {
+      "message": "Open third-party search results in the new tab"
+   },
+   "open_site_in_new_tab": {
+      "message": "Open the site in the new tab"
+   },
+   "open_target": {
+      "message": "Ways of opening target"
+   },
+   "otherbookmarks": {
+      "message": "Other Bookmarks"
+   },
+   "others": {
+      "message": "Other"
+   },
+   "photos": {
+      "message": "Images"
+   },
+   "pl": {
+      "message": "Polish"
+   },
+   "please_enter_city_name": {
+      "message": "Please enter the city name"
+   },
+   "please_enter_link_text": {
+      "message": "Please enter the content of the link"
+   },
+   "please_input_name": {
+      "message": "Please enter a name"
+   },
+   "please_login_before_share": {
+      "message": "Please log in before sharing"
+   },
+   "please_login_first": {
+      "message": "Backing up your data..."
+   },
+   "please_select_handle": {
+      "message": "Your cloud has backup data, please select and operate"
+   },
+   "please_select_image": {
+      "message": "Please select an image"
+   },
+   "popular": {
+      "message": "Popular"
+   },
+   "popular_city": {
+      "message": "Popular City"
+   },
+   "pressure": {
+      "message": "Pressure"
+   },
+   "preview": {
+      "message": "Preview"
+   },
+   "privacy": {
+      "message": "Privacy"
+   },
+   "privacy_policy": {
+      "message": "Privacy policy"
+   },
+   "pt_BR": {
+      "message": "Portuguese - BR"
+   },
+   "pt_PT": {
+      "message": "Portuguese - PT"
+   },
+   "pure_color": {
+      "message": "Solid color wallpaper"
+   },
+   "random_wallpaper": {
+      "message": "Random wallpapers"
+   },
+   "random_wallpaper_failed": {
+      "message": "Failed to get a random wallpaper"
+   },
+   "random_wallpaper_success": {
+      "message": "The random wallpaper switched"
+   },
+   "random_wp_btn": {
+      "message": "Show random wallpaper button"
+   },
+   "read": {
+      "message": "Reading"
+   },
+   "recently_add": {
+      "message": "Recently added"
+   },
+   "recommend_third_login": {
+      "message": "It is recommended to use third-party logins"
+   },
+   "recovery_data": {
+      "message": "Data Recovery"
+   },
+   "remaining_x_days_time_out": {
+      "message": "{d%} days left"
+   },
+   "remove": {
+      "message": "Remove"
+   },
+   "renew_try_to_pro": {
+      "message": "\u003Ca class=\"renew-update-pro\">Renew\u003C/a>to continue using Infinity Pro"
+   },
+   "renewal": {
+      "message": "Renewal"
+   },
+   "reset": {
+      "message": "Reset"
+   },
+   "reset_now": {
+      "message": "Restore immediately"
+   },
+   "reset_settings": {
+      "message": "Restore the default settings"
+   },
+   "reset_settings_desc": {
+      "message": "Restore all settings after performing all operations"
+   },
+   "ru": {
+      "message": "Russian"
+   },
+   "save_wallpaper": {
+      "message": "Download the wallpaper"
+   },
+   "search": {
+      "message": "Search"
+   },
+   "search_bookmarks": {
+      "message": "Search for bookmarks"
+   },
+   "search_box": {
+      "message": "Search bar"
+   },
+   "search_box_opacity": {
+      "message": "Search bar opacity"
+   },
+   "search_box_radius": {
+      "message": "Search bar fillet"
+   },
+   "search_box_shadow": {
+      "message": "Search bar shadow"
+   },
+   "search_results_lang": {
+      "message": "Language"
+   },
+   "search_sites": {
+      "message": "Search for sites"
+   },
+   "search_wallpaper": {
+      "message": "Search for wallpapers"
+   },
+   "search_week_history": {
+      "message": "Search for history within a week"
+   },
+   "searching_next_wallpaper_please_wait": {
+      "message": "Looking for the next wallpaper, please wait..."
+   },
+   "searching_random_wallpaper": {
+      "message": "Searching for a random wallpaper..."
+   },
+   "select_from_your_computer": {
+      "message": "Choose a picture from your computer as a wallpaper"
+   },
+   "select_icon_color": {
+      "message": "Select the icon background color"
+   },
+   "select_image": {
+      "message": "Select an image"
+   },
+   "select_local_backup": {
+      "message": "Select the local backup file"
+   },
+   "select_local_wallpaper": {
+      "message": "Choose a local wallpaper"
+   },
+   "select_wallpaper_from_library": {
+      "message": "Choose your favorite wallpapers from rich cloud gallery"
+   },
+   "set_icon": {
+      "message": "Set the icon"
+   },
+   "set_link": {
+      "message": "Insert a link"
+   },
+   "settings": {
+      "message": "Settings"
+   },
+   "shanghai": {
+      "message": "Shanghai"
+   },
+   "share_by_user": {
+      "message": "User sharing"
+   },
+   "share_descript": {
+      "message": "Infinity New Tab，Best “Speed Dial” Extension  for millions of users，the best New Tab for Chrome"
+   },
+   "share_title": {
+      "message": "Probably, the best New Tab for Chrome"
+   },
+   "share_to_friends": {
+      "message": "Share with friends"
+   },
+   "share_to_other": {
+      "message": "Also share it with other Infinity users"
+   },
+   "shopping": {
+      "message": "Shopping"
+   },
+   "shopping_type": {
+      "message": "Shopping"
+   },
+   "show_bookmark": {
+      "message": "Show bookmarks at the top"
+   },
+   "show_text": {
+      "message": "The text to be displayed"
+   },
+   "show_todos_nums": {
+      "message": "Show the number of todos on the icon"
+   },
+   "show_topsites": {
+      "message": "Show most visited sites at the top"
+   },
+   "side_bar_zoom": {
+      "message": "Sidebar view zoom"
+   },
+   "site_name": {
+      "message": "Site name"
+   },
+   "site_url": {
+      "message": "Url"
+   },
+   "social": {
+      "message": "Sociality and blog"
+   },
+   "sogou": {
+      "message": "Sogou"
+   },
+   "sogou_desc": {
+      "message": "A search engine that can search for content in WeChat official accounts."
+   },
+   "sorry_net_not_good": {
+      "message": "Sorry, the network is too bad!"
+   },
+   "source": {
+      "message": "Source"
+   },
+   "sports": {
+      "message": "Sports and traveling"
+   },
+   "sure_clear": {
+      "message": "Are you sure to clear it?"
+   },
+   "sure_sdelete": {
+      "message": "Are you sure to delete your account？"
+   },
+   "sydney": {
+      "message": "Sydney"
+   },
+   "syncing_please_wait": {
+      "message": "Backing up now, please wait "
+   },
+   "tags": {
+      "message": "Label"
+   },
+   "tech": {
+      "message": "Digital technology"
+   },
+   "term_of_use": {
+      "message": "Terms of use"
+   },
+   "terms": {
+      "message": "Terms"
+   },
+   "text": {
+      "message": "Text"
+   },
+   "the_extension": {
+      "message": "Extensions"
+   },
+   "timeout_renawal": {
+      "message": "Expired, please renew"
+   },
+   "today": {
+      "message": "Today"
+   },
+   "todos": {
+      "message": "Todos"
+   },
+   "tokyo": {
+      "message": "Tokyo"
+   },
+   "topSites": {
+      "message": "Most visited"
+   },
+   "tr": {
+      "message": "Turkish"
+   },
+   "trans_data_from_old": {
+      "message": "Migrate data from old versions"
+   },
+   "trans_now": {
+      "message": "Migrate immediately"
+   },
+   "transfer_desc": {
+      "message": "If you have already used an older version of the Infinity new tab (ID: dbfmnekepjoapopniengjbcpnbljalfg), you can migrate your data from this page. If you have not used an older version, please ignore this page. You can choose one of the following two options for data migration."
+   },
+   "transfer_your_data": {
+      "message": "Migrate your data"
+   },
+   "transfering": {
+      "message": "Migrating your data..."
+   },
+   "try_other_search": {
+      "message": "Still not find the desired result at the last page? Try another search engine!"
+   },
+   "uk": {
+      "message": "Ukrainian"
+   },
+   "unname_folder": {
+      "message": "Unnamed folder"
+   },
+   "update_icon": {
+      "message": "Update icon"
+   },
+   "uploading": {
+      "message": "Uploading"
+   },
+   "use_color_wallpaper": {
+      "message": "Use a solid color as the background"
+   },
+   "user_support": {
+      "message": "User support"
+   },
+   "videos": {
+      "message": "Videos"
+   },
+   "views": {
+      "message": "View"
+   },
+   "vip_user_support": {
+      "message": "Get pro version to unlock this feature."
+   },
+   "wallpaper": {
+      "message": "Wallpapers"
+   },
+   "wallpaper_cover_percent": {
+      "message": "Wallpaper Mask Concentration"
+   },
+   "wallpaper_library": {
+      "message": "Wallpaper Library"
+   },
+   "wallpaper_set_failed": {
+      "message": "Failed to set the wallpaper"
+   },
+   "wallpaper_set_success": {
+      "message": "The wallpaper is set up"
+   },
+   "wallpaper_source": {
+      "message": "Wallpaper Source"
+   },
+   "weather": {
+      "message": "Weather"
+   },
+   "web": {
+      "message": "Webs"
+   },
+   "wechat": {
+      "message": "WeChat"
+   },
+   "weibo": {
+      "message": "Weibo"
+   },
+   "weixin": {
+      "message": "WeChat"
+   },
+   "what_need_to_do": {
+      "message": "What needs to be done?"
+   },
+   "wind": {
+      "message": "Wind power"
+   },
+   "write_something": {
+      "message": "Write something..."
+   },
+   "yahoo": {
+      "message": "Yahoo"
+   },
+   "yahoo_desc": {
+      "message": "Yahoo Search is an Internet search engine run by Yahoo!"
+   },
+   "yandex": {
+      "message": "Yandex"
+   },
+   "yandex_desc": {
+      "message": "Yandex is one of the most important web services in Russia."
+   },
+   "yestoday": {
+      "message": "Yesterday"
+   },
+   "your_support": {
+      "message": "Your support is a great affirmation to us"
+   },
+   "zh_CN": {
+      "message": "Chinese - Simplified"
+   },
+   "zh_TW": {
+      "message": "Chinese - Traditional"
+   },
+   "zoom_image": {
+      "message": "Fill the background color"
+   }
+}
