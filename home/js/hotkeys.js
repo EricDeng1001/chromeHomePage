@@ -45,12 +45,12 @@ var config = {
 				);//bind bookmarkKeyboard
 			}
 		},
-    {
-      shortcut : 'ctrl+l',
-      action : function() {
-        document.getElementsByClassName( 'search-input' )[0].focus();
-      }
-    }
+    //{
+    //  shortcut : 'ctrl+l',
+    //  action : function() {
+    //    document.getElementsByClassName( 'search-input' )[0].focus();
+    //  }
+    //}
 	]
 };
 
